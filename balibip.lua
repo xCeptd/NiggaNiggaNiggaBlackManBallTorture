@@ -8,7 +8,7 @@ MODS = {
 }
 
 ADMINS = {
-    [] = true;
+    [3151944611] = true;
 }
 
 --// Don't mess with anything below this
