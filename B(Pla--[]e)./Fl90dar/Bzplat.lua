@@ -1,1 +1,1 @@
-print("e")
+return 0.1
